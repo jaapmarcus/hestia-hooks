@@ -7,4 +7,4 @@ $HESTIA/bin/v-change-sys-demo-mode yes
 # Update templates to enable default username 
 sed -i "s|autofocus|autofocus value=\"admin\"|g" $HESTIA/web/templates/pages/login/login.html
 # Update templates to enable default password 
-sed -i "s|autofocus|autofocus value=\"StrongSecurePassword\"|g" $HESTIA/web/templates/pages/login/login_1.htmlcat
+sed -i "s|autofocus|autofocus value=\"StrongSecurePassword\"|g" $HESTIA/web/templates/pages/login/login_1.html
