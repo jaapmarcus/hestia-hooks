@@ -7,7 +7,7 @@ Place them in /etc/hestiacp/hooks/ if the folder does not exists create the fold
 To do the same with with hestia-nginx or hestia-php
 
 Use the folders:
-/etc/hestia/nginx/ and /etc/hestia/php respectively. 
+/etc/hestiacp/hooks/nginx/ and /etc/hestia/hooks/php respectively. 
 
 You can still use the same file names. 
 
